@@ -40,7 +40,7 @@ npm install react react-dom
 touch .babelrc
 ```
 
-8. COnfigure Webpack
+8. Configure Webpack
 
 ```
 touch webpack.config.js
