@@ -54,3 +54,5 @@ touch webpack.config.js
 npm run build
 npm start
 ```
+
+Deployment files are in `dist` folder.
