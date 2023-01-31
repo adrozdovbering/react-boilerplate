@@ -47,3 +47,10 @@ touch webpack.config.js
 ```
 
 9. Add scripts to package.json
+
+10. Build the app and start in dev mode:
+
+```
+npm run build
+npm start
+```
